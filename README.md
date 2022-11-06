@@ -13,7 +13,7 @@ Fort this project we used deep-learning neural networks to create a binary class
 - Income classification
 - Special consideration for application
 - Funding amount requested
-- Was the money used effectively
+- If the money used effectively or not
 
 Our model was developed by preprocessing the data, followed by model compiling, training, evaluation and optimization.
 
@@ -21,7 +21,7 @@ Our model was developed by preprocessing the data, followed by model compiling, 
 
 ## Data Preprocessing
 
-- Our model's target was whether or not the money was used effectively. 
+- Our model's target variable was whether or not the money was used effectively. 
 - The remaining variables listed above all served as features for the model. 
 - Two fields that held unique identifiers were removed ('Name' and 'EIN').
 
